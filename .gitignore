@@ -1,0 +1,9 @@
+queuectl
+queuectl.exe
+
+*.db
+*.db-shm
+*.db-wal
+
+.env
+.vscode/
